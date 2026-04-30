@@ -13,25 +13,25 @@ export const NAV_LINKS: NavLink[] = [
 export const SERVICES: Service[] = [
   {
     title: 'Strony internetowe',
-    description: 'Tworzymy nowoczesne, szybkie i responsywne strony internetowe, które przyciągają uwagę i konwertują.',
+    description: 'Strona, która nie tylko wygląda świetnie — ale zamienia odwiedzających w zapytania. Szybka, responsywna, zoptymalizowana pod konwersję.',
     icon: 'M3 3h18v18H3V3zm0 6h18M9 21V9',
     viewBox: '0 0 24 24',
   },
   {
     title: 'Aplikacje mobilne',
-    description: 'Projektujemy i rozwijamy aplikacje mobilne (iOS, Android), które zapewniają świetne doświadczenia użytkownika.',
+    description: 'iOS i Android budowane z myślą o użytkownikach Twoich klientów. Testujemy prototyp razem z Tobą, zanim napiszemy linijkę kodu.',
     icon: 'M7 2h10a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2zm5 16h.01',
     viewBox: '0 0 24 24',
   },
   {
     title: 'Automatyzacje AI',
-    description: 'Wdrażamy inteligentne automatyzacje i rozwiązania AI, które oszczędzają czas, redukują koszty i skalują biznes.',
+    description: 'Skończyły się godziny spędzone na powtarzalnych zadaniach. Wdrażamy AI, które pracuje za Twój zespół — 24/7, bez błędów.',
     icon: 'M12 2v3M12 19v3M4.22 4.22l2.12 2.12M17.66 17.66l2.12 2.12M2 12h3M19 12h3M4.22 19.78l2.12-2.12M17.66 6.34l2.12-2.12M12 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6z',
     viewBox: '0 0 24 24',
   },
   {
     title: 'Systemy i integracje',
-    description: 'Tworzymy dedykowane systemy webowe oraz integracje z API, CRM, płatnościami i innymi narzędziami.',
+    description: 'Twoje narzędzia powinny ze sobą rozmawiać. Łączymy CRM, płatności i API w jeden sprawny ekosystem.',
     icon: 'M16 18l6-6-6-6M8 6L2 12l6 6',
     viewBox: '0 0 24 24',
   },
@@ -52,10 +52,10 @@ export const PROJECTS: Project[] = [
 ]
 
 export const PROCESS_STEPS: ProcessStep[] = [
-  { num:'01', title:'Analiza i strategia', description:'Poznajemy Twój biznes i cele, aby stworzyć najlepszy plan działania.',          duration:'1–2 tygodnie', iconPath:'M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm0-14v4l3 3' },
-  { num:'02', title:'Projekt i prototyp',  description:'Projektujemy UX/UI i tworzymy prototyp, który testujemy wspólnie.',            duration:'2–3 tygodnie', iconPath:'M12 20h9M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z' },
-  { num:'03', title:'Tworzenie',           description:'Kodujemy, integrujemy i dbamy o każdy detal, aby wszystko działało bez zarzutu.', duration:'4–12 tygodni', iconPath:'M16 18l6-6-6-6M8 6L2 12l6 6' },
-  { num:'04', title:'Wdrożenie i rozwój',  description:'Uruchamiamy projekt i wspieramy Cię w dalszym rozwoju produktu.',              duration:'Stale',        iconPath:'M22 11.08V12a10 10 0 1 1-5.93-9.14M22 4L12 14.01l-3-3' },
+  { num:'01', title:'Analiza i strategia', description:'Poznajemy Twój biznes i cele, aby stworzyć najlepszy plan działania. Po tej rozmowie wiesz dokładnie, co i kiedy zrobimy',          duration:'1–2 tygodnie', iconPath:'M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm0-14v4l3 3' },
+  { num:'02', title:'Projekt i prototyp',  description:'Projektujemy UX/UI i tworzymy prototyp, który testujemy wspólnie. Klikasz i testujesz zanim cokolwiek zostanie zakodowane',            duration:'2–3 tygodnie', iconPath:'M12 20h9M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z' },
+  { num:'03', title:'Tworzenie',           description:'Kodujemy, integrujemy i dbamy o każdy detal, aby wszystko działało bez zarzutu. Pilnujemy każdego detalu — Ty możesz skupić się na biznesie', duration:'4–12 tygodni', iconPath:'M16 18l6-6-6-6M8 6L2 12l6 6' },
+  { num:'04', title:'Wdrożenie i rozwój',  description:'Uruchamiamy projekt i wspieramy Cię w dalszym rozwoju produktu. Uruchamiamy i zostajemy — bo dobre projekty się rozwijają',              duration:'Stale',        iconPath:'M22 11.08V12a10 10 0 1 1-5.93-9.14M22 4L12 14.01l-3-3' },
 ]
 
 export const TESTIMONIALS: Testimonial[] = [

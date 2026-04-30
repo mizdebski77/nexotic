@@ -8,16 +8,16 @@ export function ProcessSection() {
   return (
     <section className="bg-white border-t border-neutral-200 py-20 xl:py-24">
       <div className="max-w-site mx-auto px-6 md:px-10">
-        <div className="grid grid-cols-1 xl:grid-cols-[280px_1fr] gap-14 xl:gap-20 items-start">
+        <div className="grid grid-cols-1 xl:grid-cols-[300px_1fr] gap-14 xl:gap-16 items-start">
           <AnimatedSection direction="left">
             <SectionLabel dark>Nasz proces</SectionLabel>
             <h2 className="text-2xl md:text-3xl xl:text-4xl font-extrabold tracking-[-1px] text-neutral-900 mb-4 leading-[1.1]">
-              Prosto, jasno,<br/>skutecznie
+              Wiesz dokładnie, co się dzieje — na każdym etapie
             </h2>
             <p className="text-[14px] text-neutral-500 leading-relaxed mb-6">
-              Przejrzysty proces, dzięki któremu wiesz na każdym etapie, co się dzieje z Twoim projektem.
+              Zero niespodzianek. Stały kontakt. Termin to termin.
             </p>
-            <Button href="/proces" variant="outline-dark">Dowiedz się więcej o nas →</Button>
+            <Button href="/proces" variant="outline-dark">Zarezerwuj bezpłatną konsultację →</Button>
           </AnimatedSection>
 
           {/* Timeline */}

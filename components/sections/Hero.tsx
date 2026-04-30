@@ -48,20 +48,21 @@ export function Hero() {
               Tworzymy cyfrowe rozwiązania, które działają
             </div>
           </motion.div>
+           
+
 
           <motion.h1 {...fadeUp(0.15)} style={{ lineHeight: isMobile ? '40px' : '60px' }} className="leading-[400px] text-3xl md:text-2xl xl:text-[40px] 2xl:text-5xl  font-extrabold    text-white mb-5" >
-            Strony internetowe,<br/>
-            aplikacje i automatyzacje AI<br/>
-            <span className="text-lime">dla ambitnych firm</span>
+          Aautomatyzacje AI, strony, aplikacje  które realnie<br/>
+            <span className="text-lime"> zwiększają przychody<br></br> Twojej firmy</span>
           </motion.h1>
 
           <motion.p {...fadeUp(0.25)} className="text-[15px] xl:text-base text-white/50 max-w-[440px] mb-8">
-            Łączymy nowoczesny design, technologię i sztuczną inteligencję, aby tworzyć produkty, które przyciągają klientów, automatyzują procesy i realnie zwiększają Twój zysk.
+            Projektujemy i wdrażamy rozwiązania cyfrowe dla firm, które chcą rosnąć — nie tylko dobrze wyglądać w internecie.
           </motion.p>
 
           <motion.div {...fadeUp(0.35)} className="flex gap-3 flex-wrap mb-9">
-            <Button href="/portfolio" variant="lime" size="md">Zobacz nasze realizacje →</Button>
-            <Button href="/uslugi" variant="outline-white" size="md">Poznaj nasze usługi ›</Button>
+            <Button href="/usługi" variant="lime" size="md">Omów swój projekt bezpłatnie →</Button>
+            <Button href="/portfolio" variant="outline-white" size="md">Zobacz realizacje ›</Button>
           </motion.div>
 
           <motion.div {...fadeUp(0.45)} className="flex items-center gap-3.5">

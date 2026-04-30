@@ -10,9 +10,9 @@ export function Services() {
         <AnimatedSection className="text-center mb-12">
           <SectionLabel dark >Co robimy</SectionLabel>
           <h2 className="text-3xl md:text-4xl xl:text-5xl font-extrabold tracking-[-1.5px] text-neutral-900 mb-3">
-            Kompleksowe rozwiązania cyfrowe
+            Wybierz, gdzie chcesz rosnąć
           </h2>
-          <p className="text-[15px] text-neutral-500">Od pomysłu, przez projekt, aż po wdrożenie i rozwój.</p>
+          <p className="text-[15px] text-neutral-500">Realizujemy projekty end-to-end — od projektu po wdrożenie i wsparcie..</p>
         </AnimatedSection>
 
         <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4   overflow-hidden gap-4">
