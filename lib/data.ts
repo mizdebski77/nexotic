@@ -38,8 +38,8 @@ export const SERVICES: Service[] = [
 ]
 
 export const STATS: Stat[] = [
-  { number: '80+',   label: 'Zrealizowanych projektów',                      iconPath: 'M13 2L3 14h9l-1 8 10-12h-9l1-8z' },
-  { number: '50+',   label: 'Zadowolonych klientów',                          iconPath: 'M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2M9 11a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75' },
+  { number: '50+',   label: 'Zrealizowanych projektów',                      iconPath: 'M13 2L3 14h9l-1 8 10-12h-9l1-8z' },
+  { number: '30+',   label: 'Zadowolonych klientów',                          iconPath: 'M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2M9 11a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75' },
   { number: '3000+', label: 'Godzin zaoszczędzonych dzięki automatyzacjom',   iconPath: 'M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm0-14v4l3 3' },
   { number: '120%',  label: 'Średni wzrost wyników naszych klientów',          iconPath: 'M22 7L13.5 15.5l-5-5L2 17M16 7h6v6' },
 ]
@@ -65,8 +65,8 @@ export const TESTIMONIALS: Testimonial[] = [
 ]
 
 export const TEAM_MEMBERS: TeamMember[] = [
-  { initials:'AK', name:'Adam K.',   role:'CEO & Co-founder' },
-  { initials:'MN', name:'Marta N.',  role:'Head of Design' },
-  { initials:'PW', name:'Piotr W.',  role:'Lead Developer' },
-  { initials:'JS', name:'Julia S.',  role:'AI Engineer' },
+  { initials:'MI', name:'Marcin I.',   role:'CEO & Co-founder, Developer' },
+  { initials:'WK', name:'Wiktoria K.',  role:'Head of Design' },
+  { initials:'PJ', name:'Patryk J.',  role:'Marketing Specialist' },
+  { initials:'MI', name:'Magdalena I.',  role:'SEO Specialist' },
 ]

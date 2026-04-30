@@ -3,8 +3,8 @@ import { PageHero } from '@/components/ui/PageHero'
 import { AnimatedSection, StaggerContainer, StaggerItem } from '@/components/ui/AnimatedSection'
 
 const metrics = [
-  {n:'80+',l:'Projektow'},{n:'50+',l:'Klientow'},{n:'5',l:'Lat doswiadczenia'},
-  {n:'3',l:'Krajow'},{n:'98%',l:'Zadowolonych klientow'},{n:'24h',l:'Czas odpowiedzi'},
+  {n:'50+',l:'Projektow'},{n:'30+',l:'Klientow'},{n:'5',l:'Lat doswiadczenia'},
+  {n:'5',l:'Krajow'},{n:'100%',l:'Zadowolonych klientow'},{n:'6h',l:'Czas odpowiedzi'},
 ]
 
 export default function ONasPage() {
@@ -15,7 +15,7 @@ export default function ONasPage() {
         <div className="grid xl:grid-cols-2 gap-16 items-start mb-20">
           <AnimatedSection>
             <h2 className="text-3xl xl:text-4xl font-extrabold tracking-[-1px] text-neutral-900 mb-6 leading-[1.1]">
-              Dzialamy od 2019 roku i przez ten czas nauczylismy sie jednej waznej rzeczy.
+              Dzialamy od 2021 roku i przez ten czas nauczylismy sie jednej waznej rzeczy.
             </h2>
             <p className="text-[15px] text-neutral-500 leading-relaxed mb-4">Nie liczy sie liczba linii kodu. Liczy sie to, czy produkt realnie pomaga Twoim klientom i czy Twoj biznes na nim zarabia.</p>
             <p className="text-[15px] text-neutral-500 leading-relaxed">Dlatego zaczynamy od zrozumienia Twojego biznesu, a dopiero potem siadamy do kodu.</p>

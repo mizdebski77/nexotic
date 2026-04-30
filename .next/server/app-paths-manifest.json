@@ -1,3 +1,8 @@
 {
-  "/page": "app/page.js"
+  "/page": "app/page.js",
+  "/o-nas/page": "app/o-nas/page.js",
+  "/proces/page": "app/proces/page.js",
+  "/kontakt/page": "app/kontakt/page.js",
+  "/uslugi/page": "app/uslugi/page.js",
+  "/portfolio/page": "app/portfolio/page.js"
 }
