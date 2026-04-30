@@ -2,8 +2,8 @@ import { ContactForm } from '@/components/sections/ContactForm'
 import { AnimatedSection } from '@/components/ui/AnimatedSection'
 
 const contactDetails = [
-  { label: 'E-mail',      value: 'kontakt@nexotic.pl',               icon: 'M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2zM22 6l-10 7L2 6' },
-  { label: 'Telefon',     value: '+48 123 456 789',                  icon: 'M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.13 11.9 19.79 19.79 0 0 1 1.08 3.28 2 2 0 0 1 3.06 1h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L7.09 8.5a16 16 0 0 0 5.92 5.92l1-1.27a2 2 0 0 1 2.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0 1 22 15.56v1.36z' },
+  { label: 'E-mail',      value: 'Nexotic.contact@gmail.com',               icon: 'M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2zM22 6l-10 7L2 6' },
+  { label: 'Telefon',     value: '+48 501375604',                  icon: 'M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.13 11.9 19.79 19.79 0 0 1 1.08 3.28 2 2 0 0 1 3.06 1h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L7.09 8.5a16 16 0 0 0 5.92 5.92l1-1.27a2 2 0 0 1 2.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0 1 22 15.56v1.36z' },
   { label: 'Lokalizacja', value: 'Katowice · Polska · Praca zdalna', icon: 'M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0zM12 10a1 1 0 1 0 0-2 1 1 0 0 0 0 2z' },
 ]
 
