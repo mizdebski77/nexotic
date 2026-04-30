@@ -5,9 +5,9 @@
 // - pause on hover for polish
 
 const TECH = [
-  'Next.js 14', 'React Native', 'AI Automation', 'Flutter',
-  'LangChain', 'TypeScript', 'n8n Workflows', 'Custom GPTs',
-  'PostgreSQL', 'Vercel Edge', 'Tailwind CSS', 'Framer Motion',
+  'Strony internetowe', 'Sklepy internetowe', 'Aplikacje mobilne', 'Projektowanie',
+  'Automatyzacje AI', 'Chat-boty', 'Indywidualne podejście', 'Automatyzacja Social Media ',
+  'Skalowalność i wydajność', 'Wsparcie techniczne 24/7', 'Strategia cyfrowa', 'E-commerce', 'Automatyzacja procesów',
 ]
 
 function MarqueeItem({ label }: { label: string }) {

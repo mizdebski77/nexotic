@@ -76,7 +76,7 @@ export function Hero() {
             <div>
               <div className="text-lime text-xs tracking-[1px]">★★★★★ 5.0</div>
               <div className="text-[12.5px] text-white/45">
-                Zaufało nam <strong className="text-white">50+ firm</strong> z różnych branż
+                Zaufało nam <strong className="text-white">30+ firm</strong> z różnych branż
               </div>
             </div>
           </motion.div>

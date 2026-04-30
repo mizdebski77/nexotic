@@ -13,13 +13,6 @@ export function Testimonials() {
               Zaufanie, które budujemy każdego dnia
             </h2>
           </div>
-          <div className="flex gap-2 shrink-0">
-            {['←','→'].map(arrow=>(
-              <button key={arrow} className="w-9 h-9 rounded-full border border-neutral-200 flex items-center justify-center text-neutral-600 text-sm hover:bg-neutral-900 hover:text-white hover:border-neutral-900 transition-all duration-200 active:scale-95">
-                {arrow}
-              </button>
-            ))}
-          </div>
         </AnimatedSection>
 
         <StaggerContainer className="grid grid-cols-1 md:grid-cols-3 gap-6 xl:gap-8">
@@ -33,7 +26,6 @@ export function Testimonials() {
                   </div>
                   <div>
                     <div className="text-[13.5px] font-bold text-neutral-900">{t.name}</div>
-                    <div className="text-[12px] text-neutral-400">{t.role}</div>
                   </div>
                 </div>
               </div>

@@ -59,7 +59,7 @@ export const PROCESS_STEPS: ProcessStep[] = [
 ]
 
 export const TESTIMONIALS: Testimonial[] = [
-  { quote: '"NEXOTIC stworzyła dla nas stronę, która nie tylko świetnie wygląda, ale przede wszystkim realnie zwiększyła liczbę zapytań od klientów."', name:'Marta K.',  role:'Marketing Manager, GreenSpace', initials:'MK' },
+  { quote: '"NEXOTIC stworzyła dla nas stronę, która nie tylko świetnie wygląda, ale przede wszystkim realnie zwiększyła liczbę zapytań od klientów."', name:'Barbara S.',  role:'Marketing Manager, GreenSpace', initials:'MK' },
   { quote: '"Automatyzacja AI wdrożona przez NEXOTIC oszczędza nam kilkanaście godzin pracy tygodniowo. To był strzał w dziesiątkę!"',                   name:'Paweł R.',  role:'CEO, LogiSmart',                 initials:'PR' },
   { quote: '"Profesjonalne podejście, świetny kontakt i dowiezienie projektu na czas. Zdecydowanie polecam!"',                                           name:'Kamil W.',  role:'Founder, FixApp',                 initials:'KW' },
 ]
