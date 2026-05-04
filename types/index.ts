@@ -24,7 +24,6 @@ export interface Project {
   image: string
   year: string
   description: string
-  result: string
   isLight?: boolean
 }
 
