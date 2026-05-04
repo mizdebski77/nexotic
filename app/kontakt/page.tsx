@@ -22,8 +22,8 @@ const contactDetails = [
 export default function KontaktPage() {
     return (
         <div className="bg-white pt-[68px]">
-            <div className="bg-ink py-20 px-6 md:px-10">
-                <div className="max-w-site mx-auto">
+            <div className="bg-ink py-20 px-6 md:px-10 relative">
+                <div className="max-w-site mx-auto ">
                     <div className="absolute top-0 right-0 w-full h-full pointer-events-none overflow-hidden opacity-[0.18]">
                         <svg
                             viewBox="0 0 600 600"

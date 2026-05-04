@@ -19,7 +19,7 @@ export default function ONasPage() {
     return (
         <div className="bg-white pt-[68px]">
             {/* ── Hero ── */}
-            <div className="bg-ink py-20 px-6 md:px-10">
+            <div className="bg-ink py-20 px-6 md:px-10 relative">
                 <div className="absolute top-0 right-0 w-full h-full pointer-events-none overflow-hidden opacity-[0.18]">
                     <svg
                         viewBox="0 0 600 600"
