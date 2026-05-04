@@ -21,11 +21,10 @@ export interface Stat {
 export interface Project {
   name: string
   type: string
-  tags: string[]
+  image: string
   year: string
   description: string
-  bgClass: string
-  accentColor: string
+  result: string
   isLight?: boolean
 }
 

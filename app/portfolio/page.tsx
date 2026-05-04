@@ -1,7 +1,6 @@
 import { PROJECTS } from "@/lib/data";
 import { PageHero } from "@/components/ui/PageHero";
 import { StaggerContainer, StaggerItem } from "@/components/ui/AnimatedSection";
-
 const allProjects = [
     ...PROJECTS,
     {

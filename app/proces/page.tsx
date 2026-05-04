@@ -78,10 +78,10 @@ export default function ProcesPage() {
                         Nasz proces
                     </div>
                     <h1 className="text-4xl md:text-6xl xl:text-7xl font-extrabold tracking-[-2.5px] text-white mb-5 leading-[1.04]">
-                        Żadnych niespodzianek.
+                        Żadnych niespodzianek,
                         <br />
                         <span className="text-lime" style={{lineHeight: '90px'}}>
-                            Żadnego czekania na odpowiedź.
+                            żadnego czekania na odpowiedź.
                         </span>
                     </h1>
                     <p className="text-base md:text-lg text-white/50 max-w-xl leading-relaxed">

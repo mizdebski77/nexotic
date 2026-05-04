@@ -45,10 +45,38 @@ export const STATS: Stat[] = [
 ]
 
 export const PROJECTS: Project[] = [
-  { name: 'GymFlow',          type: 'Aplikacja mobilna',   tags: ['Flutter','Firebase'],        year: '2024', description: 'Aplikacja fitness z AI trenerem i śledzeniem postępów.',         bgClass: 'bg-[#0d1a0d]', accentColor: '#c8f135' },
-  { name: 'Horizon Estates',  type: 'Strona internetowa',  tags: ['Next.js','Tailwind CSS'],    year: '2024', description: 'Strona agencji nieruchomości z wirtualnymi spacerami.',          bgClass: 'bg-[#f0ece4]', accentColor: '#888',    isLight: true },
-  { name: 'Finmate',          type: 'Aplikacja webowa',    tags: ['React','Node.js'],           year: '2023', description: 'Platforma finansów osobistych z auto-kategoryzowaniem.',        bgClass: 'bg-[#0a0a18]', accentColor: '#6366f1' },
-  { name: 'AI Content Hub',   type: 'Platforma AI',        tags: ['OpenAI API','Next.js'],      year: '2024', description: 'System do generowania treści marketingowych z AI.',            bgClass: 'bg-[#0a0a0a]', accentColor: '#c8f135' },
+  {
+    name: 'GymFlow',
+    type: 'Aplikacja mobilna',
+    year: '2024',
+    image: '/../assets/Projects/Denticare.png',
+    description: 'Aplikacja fitness, która pomogła siłowni zwiększyć retencję członków o 40% dzięki spersonalizowanym planom treningowym i powiadomieniom.',
+    result: '+40% retencji',
+  },
+  {
+    name: 'Horizon Estates',
+    type: 'Strona internetowa',
+    year: '2024',
+    image: '/../assets/Projects/Denticare.png',
+    description: 'Nowa strona agencji nieruchomości przełożyła się na 3x więcej zapytań miesięcznie już w pierwszym kwartale po wdrożeniu.',
+    result: '3x więcej zapytań',
+  },
+  {
+    name: 'Finmate',
+    type: 'Aplikacja webowa',
+    year: '2023',
+    image: '/../assets/Projects/Denticare.png',
+    description: 'Platforma do zarządzania finansami osobistymi — 12 000 użytkowników w pierwszych 3 miesiącach bez budżetu marketingowego.',
+    result: '12k użytkowników',
+  },
+  {
+    name: 'AI Content Hub',
+    type: 'Platforma AI',
+    year: '2024',
+    image: '/../assets/Projects/Denticare.png',
+    description: 'System generowania treści skrócił czas produkcji contentu marketingowego z 8 godzin do 45 minut tygodniowo.',
+    result: '8h → 45 min',
+  },
 ]
 
 export const PROCESS_STEPS: ProcessStep[] = [
@@ -70,3 +98,5 @@ export const TEAM_MEMBERS: TeamMember[] = [
   { initials:'PJ', name:'Patryk J.',  role:'Marketing Specialist' },
   { initials:'MI', name:'Magdalena I.',  role:'SEO Specialist' },
 ]
+
+

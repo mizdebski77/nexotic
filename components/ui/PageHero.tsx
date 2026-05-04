@@ -11,8 +11,8 @@ interface Props {
 
 export function PageHero({ eyebrow, title, accent, subtitle }: Props) {
   return (
-    <section className="bg-ink pt-[68px]">
-      <div className="max-w-site mx-auto px-6 md:px-10 py-20 md:py-28">
+    <section className="bg-ink py-20 px-6 md:px-10">
+      <div className="max-w-site mx-auto ">
         <motion.div
           initial={{ opacity: 0, y: 28 }}
           animate={{ opacity: 1, y: 0 }}
