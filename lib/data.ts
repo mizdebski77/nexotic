@@ -55,7 +55,7 @@ export const PROJECTS: Project[] = [
   {
     name: 'Denti Care',
     type: 'Strona internetowa',
-    year: '2025',
+    year: '2022',
     image: '/projects/Denticare.png',
     description: 'Nowoczesny portal dla klinki stomatologicznej z systemem rezerwacji wizyt online, zaprojektowany w celu skrócenia czasu oczekiwania pacjentów i optymalizacji grafiku lekarzy.',
   },
@@ -67,11 +67,11 @@ export const PROJECTS: Project[] = [
     description: 'Zaawansowana platforma webowa (CRM/ERP) do zarządzania flotą maszyn budowlanych i wynajmem, mająca na celu minimalizację przestojów sprzętu oraz automatyzację procesu fakturowania.',
   },
   {
-    name: 'AI Content Hub',
-    type: 'Platforma AI',
-    year: '2024',
-    image: '/projects/content hub.png',
-    description: 'Inteligentny system do generowania i dystrybucji treści marketingowych, skracający proces tworzenia contentu z kilku godzin do zaledwie kilkunastu minut.',
+    name: 'SB pracownia',
+    type: 'Strona internetowa',
+    year: '2025',
+    image: '/projects/SZWA.png',
+    description: 'Nowoczesna platforma wizerunkowa dla biura architektonicznego, zaprojektowana w celu profesjonalnej prezentacji portfolio projektów domów i wnętrz oraz optymalizacji procesu pozyskiwania nowych klientów.',
   },
 ]
 

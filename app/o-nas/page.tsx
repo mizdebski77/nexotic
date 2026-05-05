@@ -116,38 +116,7 @@ export default function ONasPage() {
                     </StaggerContainer>
                 </div>
 
-                {/* ── Team ── */}
-                <div className="border-t border-neutral-100 pt-20">
-                    <AnimatedSection className="text-center mb-12">
-                        <div className="text-[11px] font-bold tracking-[2px] uppercase text-lime mb-4">
-                            Zespół
-                        </div>
-                        <h2 className="text-3xl xl:text-4xl font-extrabold tracking-[-1px] text-neutral-900 leading-[1.1]">
-                            Ludzie, którzy będą pracować
-                            <br className="hidden md:block" /> nad Twoim
-                            projektem
-                        </h2>
-                    </AnimatedSection>
 
-                    <StaggerContainer className="grid grid-cols-2 md:grid-cols-4 gap-6 xl:gap-8">
-                        {TEAM_MEMBERS.map((m) => (
-                            <StaggerItem key={m.name}>
-                                <div className="group text-center">
-                                    {/* Avatar */}
-                                    <div className="w-20 h-20 rounded-2xl bg-ink flex items-center justify-center text-xl font-extrabold text-lime mx-auto mb-4 group-hover:bg-lime group-hover:text-ink transition-all duration-300">
-                                        {m.initials}
-                                    </div>
-                                    <div className="text-[15px] font-bold text-neutral-900 mb-1">
-                                        {m.name}
-                                    </div>
-                                    <div className="text-[13px] text-neutral-400">
-                                        {m.role}
-                                    </div>
-                                </div>
-                            </StaggerItem>
-                        ))}
-                    </StaggerContainer>
-                </div>
 
                 {/* ── Bottom CTA ── */}
                 <AnimatedSection className="mt-20 pt-16 border-t border-neutral-100 text-center">

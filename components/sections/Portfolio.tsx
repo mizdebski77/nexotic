@@ -76,7 +76,7 @@ export function PortfolioSection() {
               href="/portfolio"
               className="group shrink-0 flex items-center gap-1.5 text-[13.5px] font-semibold text-neutral-700 border border-neutral-200 px-4 py-2.5 rounded-lg hover:border-neutral-400 hover:text-neutral-900 transition-all duration-200 whitespace-nowrap"
             >
-              Zobacz wszystkie realizacje
+              Zobacz więcej realizacji
               <span className="transition-transform duration-200 group-hover:translate-x-0.5">→</span>
             </Link>
           </AnimatedSection>
