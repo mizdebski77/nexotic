@@ -1,0 +1,230 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "services": "Leistungen",
+    "portfolio": "Portfolio",
+    "about": "Über uns",
+    "process": "Prozess",
+    "contact": "Kontakt",
+    "ctaTalk": "Lass uns reden →",
+    "openMenu": "Menü öffnen",
+    "language": "Sprache"
+  },
+  "footer": {
+    "ctaTitle": "Bereit für den nächsten Schritt?",
+    "ctaSubtitle": "Sprechen wir über dein Projekt und wie wir dich beim Wachsen unterstützen können.",
+    "ctaButton": "Über das Projekt sprechen →",
+    "orWrite": "oder schreib uns:",
+    "tagline": "Wir bauen digitale Produkte, die Wachstum ermöglichen — durch Technologie, Design und KI.",
+    "colServices": "Leistungen",
+    "colCompany": "Unternehmen",
+    "colLegal": "Rechtliches",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "cookies": "Cookies",
+    "copyright": "© 2024 Nexotic. Alle Rechte vorbehalten."
+  },
+  "hero": {
+    "badge": "Wir entwickeln digitale Lösungen, die wirklich funktionieren",
+    "titleLine1": "KI-Automatisierung, Websites und Apps, die",
+    "titleLine2": "deinen Umsatz wirklich steigern",
+    "subtitle": "Wir entwerfen und liefern digitale Lösungen für Unternehmen, die wachsen wollen — nicht nur online gut aussehen.",
+    "ctaPrimary": "Projekt kostenlos besprechen →",
+    "ctaSecondary": "Unsere Arbeiten ansehen ›",
+    "rating": "★★★★★ 5.0",
+    "trustedBy": "Vertraut von <strong>30+ Unternehmen</strong> aus verschiedenen Branchen"
+  },
+  "services": {
+    "label": "Was wir machen",
+    "title": "Wähle, wo du wachsen willst",
+    "subtitle": "Wir liefern End-to-End-Projekte — vom Design bis zum Launch und laufenden Support.",
+    "items": {
+      "web": {
+        "title": "Websites",
+        "description": "Eine Seite, die nicht nur gut aussieht — sondern Besucher in Anfragen verwandelt. Schnell, responsiv, conversion-optimiert."
+      },
+      "mobile": {
+        "title": "Mobile Apps",
+        "description": "iOS und Android, gebaut für deine Kunden. Wir testen einen klickbaren Prototyp gemeinsam mit dir, bevor wir die erste Zeile Code schreiben."
+      },
+      "ai": {
+        "title": "KI-Automatisierung",
+        "description": "Schluss mit Stunden voller Routineaufgaben. Wir implementieren KI, die für dein Team arbeitet — 24/7, ohne Fehler."
+      },
+      "systems": {
+        "title": "Systeme & Integrationen",
+        "description": "Deine Tools sollten miteinander sprechen. Wir verbinden CRM, Zahlungen und APIs zu einem stimmigen Ökosystem."
+      },
+      "chatbots": {
+        "title": "KI-Chatbots für deine Website",
+        "description": "Ein voll funktionsfähiger KI-Assistent direkt auf deiner Website. Beantwortet Kundenanfragen 24/7, qualifiziert Leads, entlastet dein Team — trainiert auf dein Angebot, in deiner Stimme."
+      }
+    }
+  },
+  "stats": {
+    "items": {
+      "projects": "Realisierte Projekte",
+      "clients": "Zufriedene Kunden",
+      "hoursSaved": "Durch Automatisierung gesparte Stunden",
+      "growth": "Durchschnittliches Kundenwachstum"
+    }
+  },
+  "process": {
+    "label": "Unser Prozess",
+    "title": "Du weißt genau, was passiert — in jeder Phase",
+    "subtitle": "Keine Überraschungen. Konstante Kommunikation. Ein Termin ist ein Termin.",
+    "ctaConsultation": "Kostenloses Beratungsgespräch buchen →",
+    "items": {
+      "01": { "title": "Analyse & Strategie", "description": "Wir verstehen dein Geschäft und deine Ziele, um den besten Plan zu entwickeln. Nach diesem Gespräch weißt du genau, was wann passiert.", "duration": "1–2 Wochen" },
+      "02": { "title": "Design & Prototyp", "description": "Wir entwerfen UX/UI und bauen einen klickbaren Prototyp, den wir gemeinsam testen. Du klickst und probierst, bevor Code geschrieben wird.", "duration": "2–3 Wochen" },
+      "03": { "title": "Entwicklung", "description": "Wir codieren, integrieren und kümmern uns um jedes Detail. Wir achten auf alles — du kannst dich auf dein Geschäft konzentrieren.", "duration": "4–12 Wochen" },
+      "04": { "title": "Launch & Weiterentwicklung", "description": "Wir launchen und begleiten dich bei der Weiterentwicklung. Wir starten und bleiben — weil gute Produkte weiterwachsen.", "duration": "Laufend" }
+    }
+  },
+  "portfolio": {
+    "label": "Unsere Arbeiten",
+    "title": "Projekte, auf die wir stolz sind",
+    "seeMore": "Mehr Arbeiten ansehen",
+    "items": {
+      "gymflow":    { "type": "Mobile App",  "description": "Ein vollwertiges CRM-Tool für einen Personal Trainer, das Trainingsplanung und Kundenkommunikation automatisiert — der Trainer betreut doppelt so viele Kunden gleichzeitig." },
+      "denticare":  { "type": "Website",     "description": "Ein modernes Portal für eine Zahnklinik mit Online-Buchung, gestaltet, um Wartezeiten zu verkürzen und Terminpläne der Ärzte zu optimieren." },
+      "buildrent":  { "type": "Web-App",     "description": "Eine fortgeschrittene Web-Plattform (CRM/ERP) zur Verwaltung einer Flotte von Baumaschinen und Vermietungen — minimiert Stillstandzeiten und automatisiert die Rechnungsstellung." },
+      "sbpracownia":{ "type": "Website",     "description": "Eine moderne Präsentationsplattform für ein Architekturbüro, die das Portfolio von Häusern und Innenräumen professionell zeigt und die Kundengewinnung optimiert." }
+    }
+  },
+  "testimonials": {
+    "label": "Was Kunden sagen",
+    "title": "Vertrauen, das wir täglich aufbauen",
+    "items": {
+      "barbara": { "quote": "\"NEXOTIC hat uns eine Website gebaut, die nicht nur gut aussieht — sie hat auch die Anzahl der Kundenanfragen tatsächlich erhöht.\"", "name": "Barbara S." },
+      "pawel":   { "quote": "\"Die von NEXOTIC entwickelte KI-Automatisierung spart uns ein Dutzend Arbeitsstunden pro Woche. Volltreffer!\"", "name": "Paweł R." },
+      "kamil":   { "quote": "\"Professionelle Herangehensweise, hervorragende Kommunikation und das Projekt wurde pünktlich geliefert. Klare Empfehlung.\"", "name": "Kamil W." }
+    }
+  },
+  "uslugiPage": {
+    "heroLabel": "Was wir machen",
+    "heroTitle1": "Technologie, die",
+    "heroTitle2": "für dein Geschäft arbeitet",
+    "heroSubtitle": "Wir wählen die Lösung passend zu deinem Ziel — nicht umgekehrt.",
+    "items": {
+      "01": { "title": "Websites",              "desc": "Deine Website ist der erste Eindruck. Wir bauen Seiten, die einen starken ersten Eindruck machen und ihn in Anfragen verwandeln. Schnell, responsiv, Google-bereit.", "outcomes": ["Mehr Kundenanfragen","Bessere Google-Platzierung","Funktioniert auf jedem Gerät","Bearbeitbar ohne Entwickler"], "cta": "Ich will eine neue Website" },
+      "02": { "title": "Mobile Apps",           "desc": "iOS und Android, gebaut, dass Nutzer wiederkommen. Wir starten mit einem Prototyp, den du klickst und testest — bevor wir Code schreiben.", "outcomes": ["Live im App Store & Google Play","Prototyp in 2 Wochen","Nutzer, die wiederkommen","Volle Integration mit deinem System"], "cta": "Ich will eine Mobile App" },
+      "03": { "title": "KI-Automatisierung",    "desc": "Wie viele Stunden pro Woche verliert dein Team an Routineaufgaben? Wir setzen KI ein, die das übernimmt. Keine Fehler, keine Pausen, kein Urlaub.", "outcomes": ["Bis zu 30h pro Woche gespart","Null Fehler in Routineprozessen","Automatische Berichte und Benachrichtigungen","KI, die dein Geschäft lernt"], "cta": "Ich will Automatisierung" },
+      "04": { "title": "Systeme & Integrationen", "desc": "Spricht dein CRM nicht mit den Zahlungen? Funktioniert die API nicht mit dem Rest? Wir verbinden alles zu einem Ökosystem, das einfach läuft.", "outcomes": ["Alle Tools an einem Ort","Schluss mit manuellem Datentransfer","Zahlungen, CRM, E-Mail — synchronisiert","Ein System, das mitwächst"], "cta": "Ich will eine Integration" },
+      "05": { "title": "KI-Chatbots für deine Website", "desc": "Ein voll funktionsfähiger KI-Assistent, eingebaut in deine Website. Versteht Kundenfragen, antwortet in deinem Ton und führt das Gespräch zur Konversion — ohne Skripte oder starre Entscheidungsbäume.", "outcomes": ["24/7 Kundensupport ohne Einstellungen","Automatische Lead-Qualifizierung und Terminbuchung","Chatbot trainiert auf dein Angebot","Integration mit CRM, E-Mail und Kalender"], "cta": "Ich will einen KI-Chatbot" }
+    },
+    "footerPrompt": "Du weißt nicht, wo du anfangen sollst?",
+    "footerCta": "Sag uns, was du brauchst →"
+  },
+  "portfolioPage": {
+    "heroEyebrow": "Unsere Arbeiten",
+    "heroTitle": "Projekte, auf die wir",
+    "heroAccent": "stolz sind",
+    "heroSubtitle": "Über 50 abgeschlossene Projekte für Unternehmen aus verschiedenen Branchen — in Polen und international.",
+    "sectionLabel": "Unsere Arbeiten",
+    "sectionTitle": "Projekte, auf die wir stolz sind",
+    "projects": {
+      "meius":       { "type": "KI-Chatbot-System",          "description": "Ein GPT-basierter intelligenter Chatbot, der Vertrieb und Echtzeit-Kundensupport unterstützt — durch automatisierte Antworten und das Führen der Nutzer durch das Angebot." },
+      "greenhouse":  { "type": "Mobile- & Web-App",          "description": "Ein intelligentes System zur Verwaltung von Plantagen und Gewächshäusern mit Echtzeit-Überwachung der Umweltparameter (CO2, Feuchtigkeit, Temperatur) und automatisierter Pflanzenpflege." },
+      "autoexpert":  { "type": "Mobile App",                 "description": "Eine fortgeschrittene App zur Verfolgung von Fahrzeugrestaurierung und Detailing. Kunden sehen die Arbeit live (Live Worklog) und führen ein digitales Serviceheft." },
+      "estatelink":  { "type": "Mobile App",                 "description": "Eine exklusive Concierge-Plattform für den Premium-Immobilienmarkt, die anspruchsvolle Investoren mit vertrauten Beratern, Anwälten und Innenarchitekten verbindet." },
+      "ingreso":     { "type": "Website",                    "description": "Eine elegante Präsentationsseite für einen Bauträger mit klarer Darstellung der Bauprojekte und Vertrauensaufbau durch professionelles UX und Projektgalerie." },
+      "lawyerbox":   { "type": "Mobile App",                 "description": "Ein sicheres Kundenportal für Anwaltskanzleien mit Ende-zu-Ende-verschlüsselter Kommunikation, Dokumentenverwaltung und Fortschrittsverfolgung — alles an einem Ort." },
+      "stach":       { "type": "Website",                    "description": "Eine responsive Website für ein Erdarbeitsunternehmen, das Vertrauen durch Maschinenflotte und ein Portfolio abgeschlossener Bauaufträge aufbaut." },
+      "paulownie":   { "type": "Website",                    "description": "Eine Bildungs- und Verkaufsplattform für nachhaltigen Anbau von Sauerstoffbäumen. Mit Wissensdatenbank, Blog und interaktiven Formularen für zukünftige Pflanzer." },
+      "sbpracownia": { "type": "Website",                    "description": "Eine moderne Präsentationsplattform für ein Architekturbüro, die das Portfolio von Häusern und Innenräumen professionell zeigt und die Kundengewinnung optimiert." }
+    }
+  },
+  "aboutPage": {
+    "heroEyebrow": "Über uns",
+    "heroTitle1": "Wir bauen Dinge, die funktionieren —",
+    "heroAccent": "nicht nur Dinge, die gut aussehen",
+    "heroSubtitle": "Wir verbinden Design, Engineering und KI, damit dein Geschäft wirklich wächst.",
+    "storyLabel": "Unsere Geschichte",
+    "storyTitle": "Seit 2021 machen wir eines — Projekte, die Ergebnisse liefern.",
+    "storyP1": "Wir haben eines gelernt: Codezeilen sind egal. Wichtig ist, ob deine Kunden kaufen, wiederkommen und dich weiterempfehlen.",
+    "storyP2Before": "Deshalb beginnt jedes Projekt mit einer Frage: ",
+    "storyP2Quote": "\"was möchtest du erreichen?\"",
+    "storyP2After": " — erst dann setzen wir uns an die Arbeit.",
+    "storyCta": "Lass uns reden →",
+    "metrics": {
+      "projects": "Projekte",
+      "clients": "Kunden",
+      "experience": "Jahre Erfahrung",
+      "countries": "Länder",
+      "happy": "Zufriedene Kunden",
+      "response": "Antwortzeit"
+    },
+    "bottomPrompt": "Willst du sehen, wie wir arbeiten?",
+    "bottomCta": "Unseren Prozess ansehen →"
+  },
+  "procesPage": {
+    "heroEyebrow": "Unser Prozess",
+    "heroTitle1": "Keine Überraschungen,",
+    "heroAccent": "kein Warten auf Antworten.",
+    "heroSubtitle": "Ein transparenter Prozess mit klaren Fristen — du weißt, was wann und warum passiert.",
+    "steps": {
+      "01": { "title": "Analyse & Strategie", "duration": "1–2 Wochen", "desc": "Wir sprechen über dein Geschäft, deine Ziele und Nutzer. Am Ende hast du einen echten Aktionsplan — konkret, nicht generisch." },
+      "02": { "title": "Design & Prototyp",   "duration": "2–3 Wochen", "desc": "Wir designen UX/UI und bauen einen klickbaren Prototyp. Du testest, bevor irgendetwas gecodet wird. Änderungen sind hier günstig — nach dem Coden nicht mehr." },
+      "03": { "title": "Entwicklung",          "duration": "3–4 Wochen", "desc": "Wir codieren, integrieren, testen. Du siehst die Fortschritte in Echtzeit — kein Warten auf das große \"Reveal\" am Ende." },
+      "04": { "title": "Launch & Weiterentwicklung", "duration": "Laufend", "desc": "Wir launchen und bleiben bei dir. Denn gute Produkte entwickeln sich weiter — sie stehen nicht still." }
+    },
+    "nextStep": "Nächster Schritt",
+    "ctaTitle": "Klingt das nach dem, was du gesucht hast?",
+    "ctaButton": "Kostenloses Gespräch buchen →"
+  },
+  "kontaktPage": {
+    "heroEyebrow": "Kontakt",
+    "heroTitle1": "Lass uns gemeinsam",
+    "heroAccent": "starten",
+    "heroSubtitle": "Kostenlose Beratung. Wir antworten innerhalb von 24 Stunden mit einem konkreten Vorschlag.",
+    "detailsTitle": "Kontaktdaten",
+    "emailLabel": "E-Mail",
+    "phoneLabel": "Telefon",
+    "locationLabel": "Standort",
+    "locationValue": "Polen"
+  },
+  "contactForm": {
+    "title": "Schreib uns",
+    "nameLabel": "Vollständiger Name",
+    "namePlaceholder": "Jan Kowalski",
+    "emailLabel": "E-Mail",
+    "emailPlaceholder": "jan@firma.de",
+    "companyLabel": "Firma (optional)",
+    "companyPlaceholder": "Firmenname",
+    "serviceLabel": "Wonach suchst du?",
+    "servicePlaceholder": "Leistung wählen...",
+    "services": {
+      "website": "Website",
+      "mobile": "Mobile App",
+      "ai": "KI & Automatisierung",
+      "comprehensive": "Komplettlösung"
+    },
+    "messageLabel": "Beschreibe dein Projekt",
+    "messagePlaceholder": "Was möchtest du bauen? Welches Problem lösen wir? Je mehr du erzählst, desto besser passt unser Vorschlag.",
+    "submit": "Nachricht senden →",
+    "submitting": "Wird gesendet...",
+    "successTitle": "Nachricht gesendet!",
+    "successDesc": "Wir melden uns innerhalb von 24 Stunden. Sieh sicherheitshalber auch im Spam-Ordner nach.",
+    "sendAnother": "Weitere Nachricht senden",
+    "errorName": "Name ist erforderlich",
+    "errorEmail": "E-Mail ist erforderlich",
+    "errorEmailInvalid": "Ungültige E-Mail",
+    "errorMessage": "Nachricht ist erforderlich",
+    "errorMessageShort": "Nachricht ist zu kurz (mind. 10 Zeichen)",
+    "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
+    "errorConnection": "Keine Verbindung. Prüfe dein Internet und versuche es erneut."
+  },
+  "chat": {
+    "welcome": "Hallo! Ich bin der Nexotic-Assistent. Ich kann dir von unseren Leistungen erzählen, wie wir arbeiten, oder dir helfen, die richtige Lösung für dein Projekt zu finden. Womit kann ich helfen?",
+    "title": "Nexotic Assistent",
+    "status": "online · antwortet in Sekunden",
+    "newChat": "NEUER CHAT",
+    "placeholder": "Nachricht schreiben…",
+    "error": "Da ist etwas schiefgelaufen. Bitte versuche es gleich nochmal.",
+    "footer": "KI kann sich irren. Für ein Angebot, melde dich über das",
+    "footerLink": "Kontaktformular",
+    "open": "KI-Chat öffnen",
+    "close": "Chat schließen"
+  }
+}

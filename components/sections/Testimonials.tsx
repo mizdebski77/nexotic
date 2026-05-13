@@ -1,0 +1,48 @@
+import { useTranslations } from 'next-intl'
+import { SectionLabel } from '@/components/ui/SectionLabel'
+import { AnimatedSection, StaggerContainer, StaggerItem } from '@/components/ui/AnimatedSection'
+
+// Each testimonial has a stable key, an initials avatar (visual, not translated),
+// and a quote + name pulled from the translation file.
+const TESTIMONIAL_KEYS = [
+  { key: 'barbara', initials: 'MK' },
+  { key: 'pawel',   initials: 'PR' },
+  { key: 'kamil',   initials: 'KW' },
+] as const
+
+export function Testimonials() {
+  const t = useTranslations('testimonials')
+  const tItems = useTranslations('testimonials.items')
+  return (
+    <section className="bg-white border-t border-neutral-200 py-20 xl:py-24">
+      <div className="max-w-site mx-auto px-6 md:px-10">
+        <AnimatedSection className="flex items-end justify-between mb-10 gap-5">
+          <div>
+            <SectionLabel dark>{t('label')}</SectionLabel>
+            <h2 className="text-3xl md:text-4xl xl:text-[44px] font-extrabold tracking-[-1.5px] text-neutral-900 leading-[1.08]">
+              {t('title')}
+            </h2>
+          </div>
+        </AnimatedSection>
+
+        <StaggerContainer className="grid grid-cols-1 md:grid-cols-3 gap-6 xl:gap-8">
+          {TESTIMONIAL_KEYS.map(({ key, initials }) => (
+            <StaggerItem key={key}>
+              <div className="group p-0">
+                <p className="text-[14px] text-neutral-500 leading-[1.75] mb-5 italic">{tItems(`${key}.quote`)}</p>
+                <div className="flex items-center gap-3">
+                  <div className="w-9 h-9 rounded-full bg-neutral-100 flex items-center justify-center text-[12px] font-bold text-neutral-500 group-hover:bg-lime group-hover:text-ink transition-all duration-200">
+                    {initials}
+                  </div>
+                  <div>
+                    <div className="text-[13.5px] font-bold text-neutral-900">{tItems(`${key}.name`)}</div>
+                  </div>
+                </div>
+              </div>
+            </StaggerItem>
+          ))}
+        </StaggerContainer>
+      </div>
+    </section>
+  )
+}

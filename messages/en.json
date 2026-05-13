@@ -1,0 +1,230 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "process": "Process",
+    "contact": "Contact",
+    "ctaTalk": "Let's talk →",
+    "openMenu": "Open menu",
+    "language": "Language"
+  },
+  "footer": {
+    "ctaTitle": "Ready for the next step?",
+    "ctaSubtitle": "Let's talk about your project and figure out how we can help you grow.",
+    "ctaButton": "Let's talk about your project →",
+    "orWrite": "or write to us:",
+    "tagline": "We build digital products that power growth — through technology, design, and AI.",
+    "colServices": "Services",
+    "colCompany": "Company",
+    "colLegal": "Legal",
+    "privacy": "Privacy policy",
+    "terms": "Terms of service",
+    "cookies": "Cookies",
+    "copyright": "© 2024 Nexotic. All rights reserved."
+  },
+  "hero": {
+    "badge": "We build digital solutions that actually work",
+    "titleLine1": "AI automation, websites and apps that genuinely",
+    "titleLine2": "grow your revenue",
+    "subtitle": "We design and ship digital solutions for companies that want to grow — not just look good online.",
+    "ctaPrimary": "Discuss your project — free →",
+    "ctaSecondary": "See our work ›",
+    "rating": "★★★★★ 5.0",
+    "trustedBy": "Trusted by <strong>30+ companies</strong> across industries"
+  },
+  "services": {
+    "label": "What we do",
+    "title": "Pick where you want to grow",
+    "subtitle": "We deliver end-to-end projects — from design through launch and ongoing support.",
+    "items": {
+      "web": {
+        "title": "Websites",
+        "description": "A site that doesn't just look great — it turns visitors into enquiries. Fast, responsive, conversion-optimised."
+      },
+      "mobile": {
+        "title": "Mobile apps",
+        "description": "iOS and Android built around your customers. We test a clickable prototype with you before writing a single line of code."
+      },
+      "ai": {
+        "title": "AI automation",
+        "description": "No more hours lost on repetitive work. We deploy AI that works for your team — 24/7, with zero mistakes."
+      },
+      "systems": {
+        "title": "Systems & integrations",
+        "description": "Your tools should talk to each other. We connect CRM, payments and APIs into one cohesive ecosystem."
+      },
+      "chatbots": {
+        "title": "AI chatbots for your site",
+        "description": "A fully functional AI assistant embedded into your site. Answers customers 24/7, qualifies leads, takes load off your team — trained on your offer, speaking in your voice."
+      }
+    }
+  },
+  "stats": {
+    "items": {
+      "projects": "Projects delivered",
+      "clients": "Happy clients",
+      "hoursSaved": "Hours saved through automation",
+      "growth": "Average client growth"
+    }
+  },
+  "process": {
+    "label": "Our process",
+    "title": "You know exactly what's happening — at every stage",
+    "subtitle": "No surprises. Constant communication. A deadline is a deadline.",
+    "ctaConsultation": "Book a free consultation →",
+    "items": {
+      "01": { "title": "Analysis & strategy", "description": "We learn your business and goals so we can build the right plan. After this call you know exactly what we'll do and when.", "duration": "1–2 weeks" },
+      "02": { "title": "Design & prototype", "description": "UX/UI design and a clickable prototype we test together. You click and try it before any code is written.", "duration": "2–3 weeks" },
+      "03": { "title": "Build", "description": "We code, integrate, and obsess over every detail so everything works flawlessly. We sweat the details — you focus on the business.", "duration": "4–12 weeks" },
+      "04": { "title": "Launch & growth", "description": "We launch and keep supporting you as the product evolves. We ship and stay — because good products keep growing.", "duration": "Ongoing" }
+    }
+  },
+  "portfolio": {
+    "label": "Our work",
+    "title": "Projects we're proud of",
+    "seeMore": "See more work",
+    "items": {
+      "gymflow":    { "type": "Mobile app",   "description": "A full CRM tool for a personal trainer that automates session scheduling and client communication — letting the trainer handle 2× as many clients at once." },
+      "denticare":  { "type": "Website",      "description": "A modern portal for a dental clinic with online booking, designed to shorten patient wait times and optimise doctors' schedules." },
+      "buildrent":  { "type": "Web app",      "description": "An advanced web platform (CRM/ERP) for managing a fleet of construction machines and rentals — minimising equipment downtime and automating invoicing." },
+      "sbpracownia":{ "type": "Website",      "description": "A modern showcase platform for an architecture studio, designed to professionally present its portfolio of homes and interiors and streamline acquiring new clients." }
+    }
+  },
+  "testimonials": {
+    "label": "What clients say",
+    "title": "Trust we build every day",
+    "items": {
+      "barbara": { "quote": "\"NEXOTIC built us a site that doesn't just look great — it actually increased the number of customer enquiries we get.\"", "name": "Barbara S." },
+      "pawel":   { "quote": "\"The AI automation NEXOTIC delivered saves us a dozen hours of work every week. It was a bullseye.\"", "name": "Paweł R." },
+      "kamil":   { "quote": "\"Professional approach, great communication, and the project shipped on time. Highly recommend.\"", "name": "Kamil W." }
+    }
+  },
+  "uslugiPage": {
+    "heroLabel": "What we do",
+    "heroTitle1": "Technology that",
+    "heroTitle2": "works for your business",
+    "heroSubtitle": "We match the solution to your goal — not the other way around.",
+    "items": {
+      "01": { "title": "Websites",              "desc": "Your site is the first thing a customer sees. We build sites that make a great first impression and turn it into enquiries. Fast, responsive, Google-ready.", "outcomes": ["More customer enquiries","Higher Google ranking","Works on every device","Editable without a developer"], "cta": "I want a new site" },
+      "02": { "title": "Mobile apps",           "desc": "iOS and Android built so users come back. We start with a prototype you click and try — before we write a single line of code.", "outcomes": ["Live in App Store & Google Play","Prototype ready in 2 weeks","Users that keep coming back","Full integration with your system"], "cta": "I want a mobile app" },
+      "03": { "title": "AI automation",         "desc": "How many hours a week does your team lose to repetitive work? We deploy AI to take it over. No mistakes, no breaks, no vacation.", "outcomes": ["Up to 30h saved per week","Zero errors in repetitive processes","Automatic reports and alerts","AI that learns your business"], "cta": "I want automation" },
+      "04": { "title": "Systems & integrations","desc": "Your CRM not talking to payments? API not playing nicely with the rest of your stack? We connect everything into one ecosystem that just works.", "outcomes": ["All tools in one place","No more copying data by hand","Payments, CRM, email — synced","A system that grows with you"], "cta": "I want systems integration" },
+      "05": { "title": "AI chatbots for your site", "desc": "A fully functional AI assistant embedded in your site. Understands customer questions, answers in your tone, and runs the conversation to conversion — no scripts or rigid decision trees.", "outcomes": ["24/7 customer support without hiring","Automatic lead qualification and booking","Chatbot trained on your offer and docs","Integration with CRM, email and calendar"], "cta": "I want an AI chatbot" }
+    },
+    "footerPrompt": "Not sure where to start?",
+    "footerCta": "Tell us what you need →"
+  },
+  "portfolioPage": {
+    "heroEyebrow": "Our work",
+    "heroTitle": "Projects we're",
+    "heroAccent": "proud of",
+    "heroSubtitle": "Over 50 projects shipped for companies across industries — in Poland and abroad.",
+    "sectionLabel": "Our work",
+    "sectionTitle": "Projects we're proud of",
+    "projects": {
+      "meius":       { "type": "AI chatbot system",        "description": "A GPT-powered intelligent chatbot that supports sales and real-time customer service by automating responses and guiding users through the company's offer." },
+      "greenhouse":  { "type": "Mobile & web app",         "description": "An intelligent system for managing plantations and greenhouses with real-time environmental monitoring (CO2, humidity, temperature) and automated plant care." },
+      "autoexpert":  { "type": "Mobile app",               "description": "An advanced app for tracking vehicle restoration and detailing. Clients see work live (Live Worklog) and keep a digital service book." },
+      "estatelink":  { "type": "Mobile app",               "description": "An exclusive concierge platform for the premium real estate market, connecting demanding investors with trusted advisors, lawyers and interior designers." },
+      "ingreso":     { "type": "Website",                  "description": "An elegant showcase site for a property developer, emphasising clear presentation of residential developments and building trust through professional UX and a project gallery." },
+      "lawyerbox":   { "type": "Mobile app",               "description": "A secure client portal for law firms with end-to-end encrypted communication, case-document management, and progress tracking — all in one place." },
+      "stach":       { "type": "Website",                  "description": "A responsive site for an earthworks company, building credibility through fleet showcase and a portfolio of completed construction jobs." },
+      "paulownie":   { "type": "Website",                  "description": "An education-and-sales platform promoting sustainable oxygen-tree cultivation. Includes a knowledge base, blog, and interactive forms for prospective growers." },
+      "sbpracownia": { "type": "Website",                  "description": "A modern showcase platform for an architecture studio, designed to professionally present its portfolio of homes and interiors and streamline acquiring new clients." }
+    }
+  },
+  "aboutPage": {
+    "heroEyebrow": "About us",
+    "heroTitle1": "We build things that work —",
+    "heroAccent": "not just things that look good",
+    "heroSubtitle": "We combine design, engineering and AI so your business actually grows.",
+    "storyLabel": "Our story",
+    "storyTitle": "Since 2021 we've done one thing — projects that deliver results.",
+    "storyP1": "We've learned one important thing: lines of code don't matter. What matters is whether your customers buy, come back, and recommend you.",
+    "storyP2Before": "That's why every project starts with one question: ",
+    "storyP2Quote": "\"what do you want to achieve?\"",
+    "storyP2After": " — only then do we get to work.",
+    "storyCta": "Let's talk →",
+    "metrics": {
+      "projects": "Projects",
+      "clients": "Clients",
+      "experience": "Years of experience",
+      "countries": "Countries",
+      "happy": "Happy clients",
+      "response": "Response time"
+    },
+    "bottomPrompt": "Want to see how we work?",
+    "bottomCta": "See our process →"
+  },
+  "procesPage": {
+    "heroEyebrow": "Our process",
+    "heroTitle1": "No surprises,",
+    "heroAccent": "no waiting for an answer.",
+    "heroSubtitle": "A transparent process with clear deadlines — you know what, when and why we're doing it.",
+    "steps": {
+      "01": { "title": "Analysis & strategy", "duration": "1–2 weeks", "desc": "We talk about your business, goals and users. You leave with a real action plan — specific, not generic." },
+      "02": { "title": "Design & prototype",  "duration": "2–3 weeks", "desc": "We design UX/UI and build a clickable prototype. You test it before anything is coded. Changes at this stage are cheap — after coding they're not." },
+      "03": { "title": "Build",                "duration": "3–4 weeks", "desc": "We code, integrate, test. You see progress in real time — no waiting for a \"reveal\" at the end." },
+      "04": { "title": "Launch & growth",      "duration": "Ongoing",   "desc": "We launch and stay with you. Because good products keep evolving — they don't stand still." }
+    },
+    "nextStep": "Next step",
+    "ctaTitle": "Sound like what you were looking for?",
+    "ctaButton": "Book a free call →"
+  },
+  "kontaktPage": {
+    "heroEyebrow": "Contact",
+    "heroTitle1": "Let's start",
+    "heroAccent": "the project",
+    "heroSubtitle": "Free consultation. We'll reply within 24 hours with a concrete proposal.",
+    "detailsTitle": "Contact details",
+    "emailLabel": "E-mail",
+    "phoneLabel": "Phone",
+    "locationLabel": "Location",
+    "locationValue": "Poland"
+  },
+  "contactForm": {
+    "title": "Write to us",
+    "nameLabel": "Full name",
+    "namePlaceholder": "Jan Kowalski",
+    "emailLabel": "E-mail",
+    "emailPlaceholder": "jan@company.com",
+    "companyLabel": "Company (optional)",
+    "companyPlaceholder": "Company name",
+    "serviceLabel": "What are you looking for?",
+    "servicePlaceholder": "Choose a service...",
+    "services": {
+      "website": "Website",
+      "mobile": "Mobile app",
+      "ai": "AI & Automation",
+      "comprehensive": "Full-stack delivery"
+    },
+    "messageLabel": "Describe your project",
+    "messagePlaceholder": "What do you want to build? What problem are we solving? The more you share, the better the proposal will be.",
+    "submit": "Send message →",
+    "submitting": "Sending...",
+    "successTitle": "Message sent!",
+    "successDesc": "We'll reply within 24 hours. Check your spam folder too — just in case.",
+    "sendAnother": "Send another message",
+    "errorName": "Name is required",
+    "errorEmail": "E-mail is required",
+    "errorEmailInvalid": "Invalid e-mail",
+    "errorMessage": "Message is required",
+    "errorMessageShort": "Message is too short (min. 10 characters)",
+    "errorGeneric": "Something went wrong. Please try again.",
+    "errorConnection": "No connection. Check your internet and try again."
+  },
+  "chat": {
+    "welcome": "Hi! I'm the Nexotic assistant. I can tell you about our services, how we work, or help you figure out the right fit for your project. What can I help with?",
+    "title": "Nexotic Assistant",
+    "status": "online · replies in seconds",
+    "newChat": "NEW CHAT",
+    "placeholder": "Type a message…",
+    "error": "Something went wrong. Please try again in a moment.",
+    "footer": "AI can make mistakes. For a quote, reach us via the",
+    "footerLink": "contact form",
+    "open": "Open AI chat",
+    "close": "Close chat"
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "nav": {
+    "home": "Hjem",
+    "services": "Tjenester",
+    "portfolio": "Portefølje",
+    "about": "Om oss",
+    "process": "Prosess",
+    "contact": "Kontakt",
+    "ctaTalk": "La oss snakke →",
+    "openMenu": "Åpne meny",
+    "language": "Språk"
+  },
+  "footer": {
+    "ctaTitle": "Klar for neste skritt?",
+    "ctaSubtitle": "La oss snakke om prosjektet ditt og se hvordan vi kan hjelpe deg å vokse.",
+    "ctaButton": "Snakk om prosjektet →",
+    "orWrite": "eller skriv til oss:",
+    "tagline": "Vi bygger digitale produkter som driver vekst — med teknologi, design og KI.",
+    "colServices": "Tjenester",
+    "colCompany": "Selskap",
+    "colLegal": "Juridisk",
+    "privacy": "Personvern",
+    "terms": "Vilkår",
+    "cookies": "Informasjonskapsler",
+    "copyright": "© 2024 Nexotic. Alle rettigheter forbeholdt."
+  },
+  "hero": {
+    "badge": "Vi bygger digitale løsninger som faktisk virker",
+    "titleLine1": "KI-automatisering, nettsider og apper som virkelig",
+    "titleLine2": "øker inntektene dine",
+    "subtitle": "Vi designer og leverer digitale løsninger for selskaper som vil vokse — ikke bare se bra ut på nettet.",
+    "ctaPrimary": "Snakk om prosjektet — gratis →",
+    "ctaSecondary": "Se prosjektene våre ›",
+    "rating": "★★★★★ 5.0",
+    "trustedBy": "Brukt av <strong>30+ selskaper</strong> i ulike bransjer"
+  },
+  "services": {
+    "label": "Hva vi gjør",
+    "title": "Velg hvor du vil vokse",
+    "subtitle": "Vi leverer prosjekter ende-til-ende — fra design til lansering og videre støtte.",
+    "items": {
+      "web": {
+        "title": "Nettsider",
+        "description": "En side som ikke bare ser bra ut — men gjør besøkende til henvendelser. Rask, responsiv, optimalisert for konvertering."
+      },
+      "mobile": {
+        "title": "Mobilapper",
+        "description": "iOS og Android bygget for kundene dine. Vi tester en klikkbar prototype sammen med deg før vi skriver én linje kode."
+      },
+      "ai": {
+        "title": "KI-automatisering",
+        "description": "Slutt på timer brukt på repetitive oppgaver. Vi setter opp KI som jobber for teamet ditt — 24/7, uten feil."
+      },
+      "systems": {
+        "title": "Systemer & integrasjoner",
+        "description": "Verktøyene dine bør snakke sammen. Vi kobler CRM, betalinger og API-er til ett sammenhengende økosystem."
+      },
+      "chatbots": {
+        "title": "KI-chatboter til nettsiden",
+        "description": "En fullt fungerende KI-assistent på siden din. Svarer kunder 24/7, kvalifiserer leads, avlaster teamet — trent på tilbudet ditt, snakker med din stemme."
+      }
+    }
+  },
+  "stats": {
+    "items": {
+      "projects": "Prosjekter levert",
+      "clients": "Fornøyde kunder",
+      "hoursSaved": "Timer spart med automatisering",
+      "growth": "Gjennomsnittlig kundevekst"
+    }
+  },
+  "process": {
+    "label": "Vår prosess",
+    "title": "Du vet nøyaktig hva som skjer — i hver fase",
+    "subtitle": "Ingen overraskelser. Kontinuerlig kommunikasjon. En frist er en frist.",
+    "ctaConsultation": "Bestill gratis konsultasjon →",
+    "items": {
+      "01": { "title": "Analyse & strategi", "description": "Vi blir kjent med virksomheten og målene dine for å lage den beste planen. Etter denne samtalen vet du nøyaktig hva som skjer og når.", "duration": "1–2 uker" },
+      "02": { "title": "Design & prototype", "description": "UX/UI-design og en klikkbar prototype vi tester sammen. Du klikker og prøver før kode skrives.", "duration": "2–3 uker" },
+      "03": { "title": "Utvikling", "description": "Vi koder, integrerer og passer på hver detalj. Vi tar oss av alt — du kan fokusere på forretningen.", "duration": "4–12 uker" },
+      "04": { "title": "Lansering & vekst", "description": "Vi lanserer og støtter deg videre. Vi starter og blir værende — gode produkter fortsetter å vokse.", "duration": "Løpende" }
+    }
+  },
+  "portfolio": {
+    "label": "Våre prosjekter",
+    "title": "Prosjekter vi er stolte av",
+    "seeMore": "Se flere prosjekter",
+    "items": {
+      "gymflow":    { "type": "Mobilapp",   "description": "Et komplett CRM-verktøy for en personlig trener som automatiserer treningsplanlegging og kommunikasjon — treneren kan håndtere dobbelt så mange kunder samtidig." },
+      "denticare":  { "type": "Nettside",   "description": "En moderne portal for en tannklinikk med nettbooking, designet for å redusere ventetider og optimalisere legenes timeplaner." },
+      "buildrent":  { "type": "Webapp",     "description": "En avansert nettplattform (CRM/ERP) for å administrere en flåte med byggemaskiner og utleie — minimerer nedetid og automatiserer fakturering." },
+      "sbpracownia":{ "type": "Nettside",   "description": "En moderne presentasjonsplattform for et arkitektkontor, designet for å vise prosjektporteføljen profesjonelt og effektivisere innhenting av nye kunder." }
+    }
+  },
+  "testimonials": {
+    "label": "Hva kundene sier",
+    "title": "Tillit vi bygger hver dag",
+    "items": {
+      "barbara": { "quote": "\"NEXOTIC bygget en nettside som ikke bare ser bra ut — den økte faktisk antall kundehenvendelser.\"", "name": "Barbara S." },
+      "pawel":   { "quote": "\"KI-automatiseringen NEXOTIC leverte sparer oss et titalls arbeidstimer i uka. Blink!\"", "name": "Paweł R." },
+      "kamil":   { "quote": "\"Profesjonell tilnærming, god kommunikasjon, og prosjektet ble levert i tide. Anbefales på det varmeste.\"", "name": "Kamil W." }
+    }
+  },
+  "uslugiPage": {
+    "heroLabel": "Hva vi gjør",
+    "heroTitle1": "Teknologi som",
+    "heroTitle2": "jobber for din virksomhet",
+    "heroSubtitle": "Vi tilpasser løsningen til målet ditt — ikke omvendt.",
+    "items": {
+      "01": { "title": "Nettsider",                "desc": "Nettsiden din er det første kunden ser. Vi bygger sider som gir et sterkt førsteinntrykk og gjør det om til henvendelser. Raske, responsive, klar for Google.", "outcomes": ["Flere kundehenvendelser","Bedre Google-plassering","Fungerer på alle enheter","Redigerbar uten utvikler"], "cta": "Jeg vil ha ny nettside" },
+      "02": { "title": "Mobilapper",                "desc": "iOS og Android bygget for at brukerne kommer tilbake. Vi starter med en prototype du klikker og prøver — før vi skriver kode.", "outcomes": ["Live i App Store og Google Play","Prototype klar på 2 uker","Brukere som kommer tilbake","Full integrasjon med systemet ditt"], "cta": "Jeg vil ha mobilapp" },
+      "03": { "title": "KI-automatisering",         "desc": "Hvor mange timer i uka mister teamet ditt på repetitive oppgaver? Vi setter opp KI som tar over. Ingen feil, ingen pauser, ingen ferie.", "outcomes": ["Opptil 30 timer spart per uke","Null feil i repetitive prosesser","Automatiske rapporter og varsler","KI som lærer virksomheten din"], "cta": "Jeg vil ha automatisering" },
+      "04": { "title": "Systemer & integrasjoner",  "desc": "Snakker ikke CRM med betalinger? Spiller ikke API-en på lag med resten? Vi kobler alt sammen til ett økosystem som bare virker.", "outcomes": ["Alle verktøy på ett sted","Slutt på manuell datakopiering","Betaling, CRM, e-post — synkronisert","Et system som vokser med deg"], "cta": "Jeg vil ha integrasjon" },
+      "05": { "title": "KI-chatboter til nettsiden", "desc": "En fullt fungerende KI-assistent bygget inn på nettsiden din. Forstår kundenes spørsmål, svarer i din tone, og fører samtalen til konvertering — uten skript eller stive beslutningstrær.", "outcomes": ["Kundestøtte 24/7 uten å ansette","Automatisk leadkvalifisering og booking","Chatbot trent på tilbudet ditt","Integrasjon med CRM, e-post og kalender"], "cta": "Jeg vil ha KI-chatbot" }
+    },
+    "footerPrompt": "Vet du ikke hvor du skal starte?",
+    "footerCta": "Si fra hva du trenger →"
+  },
+  "portfolioPage": {
+    "heroEyebrow": "Våre prosjekter",
+    "heroTitle": "Prosjekter vi er",
+    "heroAccent": "stolte av",
+    "heroSubtitle": "Over 50 leverte prosjekter for selskaper i ulike bransjer — i Polen og internasjonalt.",
+    "sectionLabel": "Våre prosjekter",
+    "sectionTitle": "Prosjekter vi er stolte av",
+    "projects": {
+      "meius":       { "type": "KI-chatbotsystem",          "description": "En GPT-basert intelligent chatbot som støtter salg og kundeservice i sanntid — gjennom automatiserte svar og ved å lede brukerne gjennom selskapets tilbud." },
+      "greenhouse":  { "type": "Mobil- og webapp",          "description": "Et intelligent system for forvaltning av plantasjer og drivhus med sanntidsovervåking av miljøparametere (CO2, fuktighet, temperatur) og automatisert planteomsorg." },
+      "autoexpert":  { "type": "Mobilapp",                  "description": "En avansert app for å spore restaurering og detailing av kjøretøy. Kundene ser arbeidet live (Live Worklog) og har en digital servicebok." },
+      "estatelink":  { "type": "Mobilapp",                  "description": "En eksklusiv concierge-plattform for premium-eiendomsmarkedet, som kobler krevende investorer med pålitelige rådgivere, advokater og interiørdesignere." },
+      "ingreso":     { "type": "Nettside",                  "description": "En elegant presentasjonsside for et eiendomsutviklingsselskap, med klar fremstilling av boligprosjekter og tillitsbygging gjennom profesjonell UX og prosjektgalleri." },
+      "lawyerbox":   { "type": "Mobilapp",                  "description": "En sikker kundeportal for advokatfirmaer med ende-til-ende-kryptert kommunikasjon, dokumenthåndtering og fremdriftssporing — alt på ett sted." },
+      "stach":       { "type": "Nettside",                  "description": "En responsiv nettside for et selskap som tilbyr grunnarbeider, og bygger troverdighet gjennom maskinpark og portefølje av fullførte oppdrag." },
+      "paulownie":   { "type": "Nettside",                  "description": "En utdannings- og salgsplattform som fremmer bærekraftig dyrking av oksygentrær. Med kunnskapsbase, blogg og interaktive skjemaer for fremtidige dyrkere." },
+      "sbpracownia": { "type": "Nettside",                  "description": "En moderne presentasjonsplattform for et arkitektkontor, designet for å vise porteføljen profesjonelt og effektivisere innhenting av nye kunder." }
+    }
+  },
+  "aboutPage": {
+    "heroEyebrow": "Om oss",
+    "heroTitle1": "Vi bygger ting som virker —",
+    "heroAccent": "ikke bare ting som ser bra ut",
+    "heroSubtitle": "Vi kombinerer design, teknologi og KI så virksomheten din faktisk vokser.",
+    "storyLabel": "Vår historie",
+    "storyTitle": "Siden 2021 har vi gjort én ting — prosjekter som gir resultater.",
+    "storyP1": "Vi har lært én viktig ting: antall kodelinjer betyr ingenting. Det som betyr noe er om kundene dine kjøper, kommer tilbake og anbefaler deg videre.",
+    "storyP2Before": "Derfor starter hvert prosjekt med ett spørsmål: ",
+    "storyP2Quote": "\"hva vil du oppnå?\"",
+    "storyP2After": " — først da setter vi i gang.",
+    "storyCta": "La oss snakke →",
+    "metrics": {
+      "projects": "Prosjekter",
+      "clients": "Kunder",
+      "experience": "Års erfaring",
+      "countries": "Land",
+      "happy": "Fornøyde kunder",
+      "response": "Responstid"
+    },
+    "bottomPrompt": "Vil du se hvordan vi jobber?",
+    "bottomCta": "Se prosessen vår →"
+  },
+  "procesPage": {
+    "heroEyebrow": "Vår prosess",
+    "heroTitle1": "Ingen overraskelser,",
+    "heroAccent": "ingen venting på svar.",
+    "heroSubtitle": "En transparent prosess med klare frister — du vet hva, når og hvorfor vi gjør det.",
+    "steps": {
+      "01": { "title": "Analyse & strategi", "duration": "1–2 uker", "desc": "Vi snakker om virksomheten din, målene og brukerne. Til slutt har du en konkret handlingsplan — ikke generisk." },
+      "02": { "title": "Design & prototype", "duration": "2–3 uker", "desc": "Vi designer UX/UI og bygger en klikkbar prototype. Du tester før noe kodes. Endringer her er billige — etter koding er de ikke det." },
+      "03": { "title": "Utvikling",           "duration": "3–4 uker", "desc": "Vi koder, integrerer, tester. Du ser fremgangen i sanntid — ingen venting på en \"reveal\" til slutt." },
+      "04": { "title": "Lansering & vekst",   "duration": "Løpende",  "desc": "Vi lanserer og blir værende. Fordi gode produkter fortsetter å utvikle seg — de står ikke stille." }
+    },
+    "nextStep": "Neste skritt",
+    "ctaTitle": "Høres det ut som det du lette etter?",
+    "ctaButton": "Bestill gratis samtale →"
+  },
+  "kontaktPage": {
+    "heroEyebrow": "Kontakt",
+    "heroTitle1": "La oss starte",
+    "heroAccent": "prosjektet sammen",
+    "heroSubtitle": "Gratis konsultasjon. Vi svarer innen 24 timer med et konkret forslag.",
+    "detailsTitle": "Kontaktinformasjon",
+    "emailLabel": "E-post",
+    "phoneLabel": "Telefon",
+    "locationLabel": "Sted",
+    "locationValue": "Polen"
+  },
+  "contactForm": {
+    "title": "Skriv til oss",
+    "nameLabel": "Fullt navn",
+    "namePlaceholder": "Jan Kowalski",
+    "emailLabel": "E-post",
+    "emailPlaceholder": "jan@firma.no",
+    "companyLabel": "Firma (valgfritt)",
+    "companyPlaceholder": "Firmanavn",
+    "serviceLabel": "Hva ser du etter?",
+    "servicePlaceholder": "Velg en tjeneste...",
+    "services": {
+      "website": "Nettside",
+      "mobile": "Mobilapp",
+      "ai": "KI og automatisering",
+      "comprehensive": "Helhetlig leveranse"
+    },
+    "messageLabel": "Beskriv prosjektet",
+    "messagePlaceholder": "Hva vil du bygge? Hvilket problem skal vi løse? Jo mer du forteller, desto bedre forslag.",
+    "submit": "Send melding →",
+    "submitting": "Sender...",
+    "successTitle": "Melding sendt!",
+    "successDesc": "Vi svarer innen 24 timer. Sjekk også søppelpost — for sikkerhets skyld.",
+    "sendAnother": "Send ny melding",
+    "errorName": "Navn er påkrevd",
+    "errorEmail": "E-post er påkrevd",
+    "errorEmailInvalid": "Ugyldig e-post",
+    "errorMessage": "Melding er påkrevd",
+    "errorMessageShort": "Meldingen er for kort (minst 10 tegn)",
+    "errorGeneric": "Noe gikk galt. Prøv igjen.",
+    "errorConnection": "Ingen tilkobling. Sjekk internett og prøv igjen."
+  },
+  "chat": {
+    "welcome": "Hei! Jeg er Nexotic-assistenten. Jeg kan fortelle om tjenestene våre, hvordan vi jobber, eller hjelpe deg å finne riktig løsning for prosjektet ditt. Hva kan jeg hjelpe med?",
+    "title": "Nexotic-assistent",
+    "status": "online · svarer på sekunder",
+    "newChat": "NY CHAT",
+    "placeholder": "Skriv en melding…",
+    "error": "Noe gikk galt. Prøv igjen om et øyeblikk.",
+    "footer": "KI kan ta feil. For et tilbud, ta kontakt via",
+    "footerLink": "kontaktskjemaet",
+    "open": "Åpne KI-chat",
+    "close": "Lukk chat"
+  }
+}
