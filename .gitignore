@@ -1,0 +1,11 @@
+node_modules
+.next/
+
+# Environment variables — ALL .env files are ignored EXCEPT .env.example,
+# which is the public template (no secrets, just the variable names).
+.env
+.env.*
+!.env.example
+
+*.pack
+*.gz
